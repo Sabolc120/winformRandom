@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9df023a8-d45a-44ce-8125-f43abc003a5c": {
+      "ProjectGuid": "9df023a8-d45a-44ce-8125-f43abc003a5c",
+      "DisplayName": "winformapp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

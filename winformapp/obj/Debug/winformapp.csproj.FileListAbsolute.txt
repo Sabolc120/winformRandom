@@ -1,0 +1,11 @@
+C:\Users\sabolc\source\repos\winformapp\winformapp\bin\Debug\winformapp.exe.config
+C:\Users\sabolc\source\repos\winformapp\winformapp\bin\Debug\winformapp.exe
+C:\Users\sabolc\source\repos\winformapp\winformapp\bin\Debug\winformapp.pdb
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.csproj.AssemblyReference.cache
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.csproj.SuggestedBindingRedirects.cache
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.Form1.resources
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.Properties.Resources.resources
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.csproj.GenerateResource.cache
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.csproj.CoreCompileInputs.cache
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.exe
+C:\Users\sabolc\source\repos\winformapp\winformapp\obj\Debug\winformapp.pdb
